@@ -2,5 +2,18 @@
 name = "dune-analytics-openapi"
 version = "0.1.0"
 edition = "2021"
+description = "Dune Analytics OpenAPI bindings"
+license = "Apache-2.0 OR MIT"
+homepage = "https://github.com/DenisGorbachev/dune-analytics-openapi"
+repository = "https://github.com/DenisGorbachev/dune-analytics-openapi"
+readme = "README.md"
+keywords = ["dune", "dune-analytics", "openapi"]
+categories = ["api-bindings"]
+
+[package.metadata.details]
+title = "Dune Analytics OpenAPI bindings"
+tagline = ""
+summary = ""
+announcement = ""
 
 [dependencies]
